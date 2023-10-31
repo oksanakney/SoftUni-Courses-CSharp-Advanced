@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\06.Supermarket\bin\Debug\net6.0\06.Supermarket.exe
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\06.Supermarket\bin\Debug\net6.0\06.Supermarket.deps.json
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\06.Supermarket\bin\Debug\net6.0\06.Supermarket.runtimeconfig.json
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\06.Supermarket\bin\Debug\net6.0\06.Supermarket.dll
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\06.Supermarket\bin\Debug\net6.0\06.Supermarket.pdb
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\06.Supermarket\obj\Debug\net6.0\06.Supermarket.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\06.Supermarket\obj\Debug\net6.0\06.Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\06.Supermarket\obj\Debug\net6.0\06.Supermarket.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\06.Supermarket\obj\Debug\net6.0\06.Supermarket.AssemblyInfo.cs
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\06.Supermarket\obj\Debug\net6.0\06.Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\06.Supermarket\obj\Debug\net6.0\06.Supermarket.dll
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\06.Supermarket\obj\Debug\net6.0\refint\06.Supermarket.dll
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\06.Supermarket\obj\Debug\net6.0\06.Supermarket.pdb
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\06.Supermarket\obj\Debug\net6.0\06.Supermarket.genruntimeconfig.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\06.Supermarket\obj\Debug\net6.0\ref\06.Supermarket.dll

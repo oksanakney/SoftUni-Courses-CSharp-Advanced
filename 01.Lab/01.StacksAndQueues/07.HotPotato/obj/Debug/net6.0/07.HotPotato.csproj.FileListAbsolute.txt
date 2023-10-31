@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\07.HotPotato\bin\Debug\net6.0\07.HotPotato.exe
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\07.HotPotato\bin\Debug\net6.0\07.HotPotato.deps.json
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\07.HotPotato\bin\Debug\net6.0\07.HotPotato.runtimeconfig.json
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\07.HotPotato\bin\Debug\net6.0\07.HotPotato.dll
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\07.HotPotato\bin\Debug\net6.0\07.HotPotato.pdb
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\07.HotPotato\obj\Debug\net6.0\07.HotPotato.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\07.HotPotato\obj\Debug\net6.0\07.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\07.HotPotato\obj\Debug\net6.0\07.HotPotato.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\07.HotPotato\obj\Debug\net6.0\07.HotPotato.AssemblyInfo.cs
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\07.HotPotato\obj\Debug\net6.0\07.HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\07.HotPotato\obj\Debug\net6.0\07.HotPotato.dll
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\07.HotPotato\obj\Debug\net6.0\refint\07.HotPotato.dll
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\07.HotPotato\obj\Debug\net6.0\07.HotPotato.pdb
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\07.HotPotato\obj\Debug\net6.0\07.HotPotato.genruntimeconfig.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\07.HotPotato\obj\Debug\net6.0\ref\07.HotPotato.dll

@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\01.ReverseAString\bin\Debug\net6.0\01.ReverseAString.exe
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\01.ReverseAString\bin\Debug\net6.0\01.ReverseAString.deps.json
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\01.ReverseAString\bin\Debug\net6.0\01.ReverseAString.runtimeconfig.json
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\01.ReverseAString\bin\Debug\net6.0\01.ReverseAString.dll
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\01.ReverseAString\bin\Debug\net6.0\01.ReverseAString.pdb
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\01.ReverseAString\obj\Debug\net6.0\01.ReverseAString.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\01.ReverseAString\obj\Debug\net6.0\01.ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\01.ReverseAString\obj\Debug\net6.0\01.ReverseAString.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\01.ReverseAString\obj\Debug\net6.0\01.ReverseAString.AssemblyInfo.cs
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\01.ReverseAString\obj\Debug\net6.0\01.ReverseAString.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\01.ReverseAString\obj\Debug\net6.0\01.ReverseAString.dll
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\01.ReverseAString\obj\Debug\net6.0\refint\01.ReverseAString.dll
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\01.ReverseAString\obj\Debug\net6.0\01.ReverseAString.pdb
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\01.ReverseAString\obj\Debug\net6.0\01.ReverseAString.genruntimeconfig.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\01.ReverseAString\obj\Debug\net6.0\ref\01.ReverseAString.dll

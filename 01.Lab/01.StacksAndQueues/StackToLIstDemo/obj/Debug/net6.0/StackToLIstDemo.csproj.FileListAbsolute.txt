@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\StackToLIstDemo\bin\Debug\net6.0\StackToLIstDemo.exe
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\StackToLIstDemo\bin\Debug\net6.0\StackToLIstDemo.deps.json
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\StackToLIstDemo\bin\Debug\net6.0\StackToLIstDemo.runtimeconfig.json
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\StackToLIstDemo\bin\Debug\net6.0\StackToLIstDemo.dll
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\StackToLIstDemo\bin\Debug\net6.0\StackToLIstDemo.pdb
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\StackToLIstDemo\obj\Debug\net6.0\StackToLIstDemo.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\StackToLIstDemo\obj\Debug\net6.0\StackToLIstDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\StackToLIstDemo\obj\Debug\net6.0\StackToLIstDemo.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\StackToLIstDemo\obj\Debug\net6.0\StackToLIstDemo.AssemblyInfo.cs
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\StackToLIstDemo\obj\Debug\net6.0\StackToLIstDemo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\StackToLIstDemo\obj\Debug\net6.0\StackToLIstDemo.dll
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\StackToLIstDemo\obj\Debug\net6.0\refint\StackToLIstDemo.dll
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\StackToLIstDemo\obj\Debug\net6.0\StackToLIstDemo.pdb
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\StackToLIstDemo\obj\Debug\net6.0\StackToLIstDemo.genruntimeconfig.cache
+C:\Users\ACER\source\repos\CSharp-Advanced-January-2023\All\Lab\01.StacksAndQueues\StackToLIstDemo\obj\Debug\net6.0\ref\StackToLIstDemo.dll
